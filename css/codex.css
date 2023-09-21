@@ -81,3 +81,17 @@ h4 {
 #trabajamos{
     text-align: center;
 }
+
+.fa, .fas {
+color: #FFF;
+}
+
+.scroll-to-top hidden-mobile visible{
+    opacity: 0;
+    display: none
+}
+
+.scroll-to-top{
+    opacity: 0;
+    display: none
+}
